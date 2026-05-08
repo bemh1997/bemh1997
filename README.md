@@ -42,27 +42,66 @@ Me gusta construir cosas geniales, resolver problemas y aprender en el proceso. 
 
 <h2 align="center">Mi stack preferido para construir algo es: PERN</h2>
 <div align="center">
-  <img src="./assets/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-	<img width="12" />
+<table>
+  <tr>
+  <td align="center" width="88">
+	<img src="./assets/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
+	</br>PostgreSQL
+	</td>
+	<td align="center" width="88">
 	<img src="./assets/express.png" alt="express" width="45" height="45"/>
+	</br>Express
+	</td>
+	<td align="center" width="88">
 	<img src="./assets/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-	<img width="12" />
+	</br>React
+	</td>
+	<td align="center" width="88">
 	<img src="./assets/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
+	</br>Nodejs
+	</td>
+  </tr>
+</table>
 </div>
 
 <h3 align="center">🚀 Lenguajes:</h3>
-<div align="center">
+<div align="center" style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <td><img src="./assets/javascript-original.svg" alt="javascript" width="45" height="45"/></td>
-    <td><img src="./assets/typescript-original.svg" alt="typescript" width="45" height="45"/></td>
-    <td><img src="./assets/java-original.svg" alt="java" width="45" height="45"/></td>
-		<td><img src="./assets/python-original.svg" alt="python" width="45" height="45"/></td>
-		<td><img src="./assets/c-original.svg" alt="c" width="45" height="45"/></td>
-		<td><img src="./assets/dartlang-icon.svg" alt="dart" width="45" height="45"/></td>
-		<td><img src="./assets/kotlinlang-icon.svg" alt="kotlin" width="45" height="45"/></td>
-  		<td><img src="./assets/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></td>
-		<td><img src="./assets/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></td>
+    <td align="center" width="88">
+		<img src="./assets/javascript-original.svg" alt="javascript" width="45" height="45"/>
+		</br>JavaScript</td>
+    <td align="center" width="88">
+		<img src="./assets/typescript-original.svg" alt="typescript" width="45" height="45"/>
+		</br>TypeScript
+		</td>
+    <td align="center" width="88">
+		<img src="./assets/java-original.svg" alt="java" width="45" height="45"/>
+		</br>Java
+		</td>
+		<td align="center" width="88">
+		<img src="./assets/python-original.svg" alt="python" width="45" height="45"/>
+		</br>Python
+		</td>
+		<td align="center" width="88">
+		<img src="./assets/c-original.svg" alt="c" width="45" height="45"/>
+		</br>C
+		</td>
+		<td align="center" width="88"><img src="./assets/dartlang-icon.svg" alt="dart" width="45" height="45"/>
+		</br>Dart
+		</td>
+		<td align="center" width="88">
+		<img src="./assets/kotlinlang-icon.svg" alt="kotlin" width="45" height="45"/>
+		</br>Kotlin
+		</td>
+  	<td align="center" width="88">
+		<img src="./assets/html5-original-wordmark.svg" alt="html5" height="45"/>
+		</br>HTML
+		</td>
+		<td align="center" width="88">
+		<img src="./assets/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
+		</br>CSS3
+		</td>
   </tr>
 </table>
 </div>
@@ -72,33 +111,42 @@ Me gusta construir cosas geniales, resolver problemas y aprender en el proceso. 
 <div align="center">
 <table align="center">
   <tr>
-    <td>
+  <td align="center" width="88">
   		<img src="./assets/springio-icon.svg" alt="spring" width="45" height="45"/>
-		</td>
-	<td>
+	</br>Spring	
+	</td>
+  <td align="center" width="88">
 		<img src="./assets/flutterio-icon.svg" alt="flutter" width="45" height="45"/>
+		</br>Flutter
 	</td>
-	<td>
+  <td align="center" width="88">
   	<img src="./assets/redux-original.svg" alt="redux" width="45" height="45"/>
+		</br>Redux
 	</td>
-	<td>
-  	<img src="./assets/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/> 
-		</td>
-  <td>
+	<td align="center" width="88">
+  	<img src="./assets/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"> 
+		</br>Tailwind
+  	</td>
+	<td align="center" width="88">
 		<img src="./assets/Bootstrap_logo.svg.png" alt="bootstrap" width="45" height="40"/>
+		</br>Bootstrap
 	</td>
   <!-- PERN al principio -->
-	<td>
+	<td align="center" width="88">
   <img src="./assets/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
+		</br>PostgreSQL
 	</td>
-	<td>
+	<td align="center" width="88">
   <img src="./assets/express.png" alt="express" width="45" height="45"/>
+		</br>Express
 	</td>
-	<td>
+	<td align="center" width="88">
   <img src="./assets/react-original-wordmark.svg" alt="react" width="45" height="45"/>
+		</br>React
 	</td>
-	<td>
+	<td align="center" width="88">
   <img src="./assets/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
+		</br>Nodejs
 	</td>
 </table>
 </div>
@@ -107,27 +155,42 @@ Me gusta construir cosas geniales, resolver problemas y aprender en el proceso. 
 <div align="center">
 <table align="center">
 	<tr>
-		<td>
+		<td align="center" width="88">
   <img src="./assets/salesforce-original.svg" alt="salesforce" width="45" height="45"/>
+		</br>Salesforce
 		</td>
-		<td>
+		<td align="center" width="88">
   <img src="./assets/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+		</br>AWS
 		</td>
-		<td>
+		<td align="center" width="88">
   <img src="./assets/google_cloud-icon.svg" alt="gcp" width="45" height="45"/>
-	<img width="12" />
+		</br>GCP
+	</td>
+	<td align="center" width="88">
   <img src="./assets/firebase-icon.svg" alt="firebase" width="45" height="45"/>
-	<img width="12" />
+		</br>Firebase
+	</td>
+	<td align="center" width="88">
   <img src="./assets/git-scm-icon.svg" alt="git" width="45" height="45"/>
-	<img width="12" />
+		</br>Git
+	</td>
+	<td align="center" width="88">
   <img src="./assets/linux-original.svg" alt="linux" width="45" height="45"/>
-	<img width="12" />
-  <img src="./assets/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-	<img width="12" />
+		</br>Linux
+	</td>
+	<td align="center" width="88">
+  <img src="./assets/mysql-original-wordmark.svg"	alt="mysql" width="45" height="45"/>
+		</br>MySQL
+	</td>
+	<td align="center" width="88">
   <img src="./assets/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-	<img width="12" />
+		</br>PostgreSQL
+	</td>
+	<td align="center" width="88">
   <img src="./assets/android-original-wordmark.svg" alt="android" width="45" height="45"/>
-		</td>
+		</br>Android
+	</td>
 	</tr>
 </table>
 </div>
